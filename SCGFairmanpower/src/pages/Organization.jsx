@@ -1,7 +1,7 @@
 import Heading from "../components/Heading";
 import Row from "../components/Row";
 
-function Bookings() {
+function Organization() {
   return (
     <Row type="horizontal">
       <Heading as="h1">ข้อมูลโครงสร้างองค์กร</Heading>
@@ -10,4 +10,4 @@ function Bookings() {
   );
 }
 
-export default Bookings;
+export default Organization;
